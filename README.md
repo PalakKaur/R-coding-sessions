@@ -1,5 +1,5 @@
 # R-coding-sessions
-This repository contains some R practise questions I designed and taught during a coding session for graduate course: Data Science in R
+This repository contains some practise questions I designed and taught during a coding session for the graduate course, Data Science in R, at Hult International Business School.
 
 
 ## Topics covered:
